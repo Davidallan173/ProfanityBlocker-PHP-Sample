@@ -1,0 +1,5 @@
+{
+    "require": {
+        "profanityblocker/profanityblocker": "^1.0"
+    }
+}
